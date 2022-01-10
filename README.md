@@ -22,39 +22,39 @@ My Proficient Skills:
 ## My Skill Set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/react-original.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/django.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/django.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/angular.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/angular.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/python.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/python.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/main/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/yichengsong318/yichengsong318/master/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## &#x1f4c8; My GitHub Stats
