@@ -73,4 +73,4 @@ My Proficient Skills:
 
 - Email:  mailto:songyicheng318@gmail.com
 - Skype:  https://join.skype.com/invite/CL88bmXV57oH
-
+- Linkedin: https://www.linkedin.com/in/yichengsong318
